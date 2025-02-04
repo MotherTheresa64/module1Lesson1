@@ -5,9 +5,6 @@ This repo is the first example I was given of how to push to a github repo.
 GitHub Hands-On
 Creating a Repository on GitHub:
 
-Watch the walkthrough video below ⬇️
-
-
 Pushing to GitHub:
 
 Link local Git repository to the remote GitHub repository:
